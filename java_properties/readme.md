@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![image](./../Java_Logo.PNG)
+![image](./../Java_Logo.png)
 </div>
 
 ## Introduction <!-- omit in toc -->
