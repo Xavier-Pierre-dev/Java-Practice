@@ -1,4 +1,4 @@
-# Java EE - Annotation Details in Servlet 3.0 <!-- omit in TOC -->
+# 🚀 Java EE - Annotation Details in Servlet 3.0 🚀 <!-- omit in TOC -->
 
 <div align="center">
 

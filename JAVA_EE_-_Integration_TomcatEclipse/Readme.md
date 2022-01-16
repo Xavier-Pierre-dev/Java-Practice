@@ -1,4 +1,4 @@
-# Java EE - Integrate Tomcat/Eclipse <!-- omit in TOC -->
+# 🚀 Java EE - Integrate Tomcat/Eclipse 🚀<!-- omit in TOC -->
 
 <div align="center">
 

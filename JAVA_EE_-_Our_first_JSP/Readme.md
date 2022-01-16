@@ -1,4 +1,4 @@
-# Java EE - Our first JSP <!-- omit in TOC -->
+# 🚀 Java EE - Our first JSP 🚀<!-- omit in TOC -->
 
 <div align="center">
 

@@ -1,4 +1,4 @@
-# Java EE - Servlet Lifecycle <!-- omit in TOC -->
+# 🚀 Java EE - Servlet Lifecycle 🚀<!-- omit in TOC -->
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 - [Introduction](#introduction)
 - [Servlet initialisation](#servlet-initialisation)
-  - [loadOnStartup equivalence beetween web.xml and annotation](#loadonstartup-equivalence-beetween-webxml-and-annotation)
+	- [loadOnStartup equivalence beetween web.xml and annotation](#loadonstartup-equivalence-beetween-webxml-and-annotation)
 - [Resource](#resource)
 
 <br>

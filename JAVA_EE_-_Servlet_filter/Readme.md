@@ -1,4 +1,4 @@
-# Java EE - Servlet filters <!-- omit in TOC -->
+# 🚀 Java EE - Servlet filters 🚀<!-- omit in TOC -->
 
 <div align="center">
 

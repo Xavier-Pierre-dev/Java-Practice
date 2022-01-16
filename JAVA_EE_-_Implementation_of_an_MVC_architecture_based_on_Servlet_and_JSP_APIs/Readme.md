@@ -1,4 +1,4 @@
-# Java EE - Implementation of an MVC architecture based on Servlet and JSP APIs <!-- omit in TOC -->
+# 🚀 Java EE - Implementation of an MVC architecture based on Servlet and JSP APIs 🚀 <!-- omit in TOC -->
 
 <div align="center">
 
